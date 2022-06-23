@@ -1,7 +1,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Generic_Lists
+namespace Iterator
 {
 	public interface List<T>
 	{
